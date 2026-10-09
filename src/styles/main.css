@@ -14,58 +14,41 @@
   --line: #d1c5b8;
   --line-soft: #e3d9cd;
 
-  /* ── MARKA (Lacivert / Çelik Mavisi) ───────── */
-  /* Sütlü kahve ile en şık duran tamamlayıcı renk */
-  --brand: #2c4c70;
-  --brand-deep: #ffffff; /* Buton üzerindeki yazı rengi (Beyaz) */
-  --brand-050: #dae4f0; /* Açık mavi çip/buton zeminleri */
+  /* ── MARKA (Mühür Kırmızısı) ───────────────── */
+  /* resmi tapu/bilirkişi belgesinin mühür ve kalemi */
+  --brand: #8c2f39;
+  --brand-deep: #ffffff;
+  --brand-050: #f6e8e9;
 
-  /* ── VURGU (Kiremit / Tarçın) ──────────────── */
-  --gold: #b3593b;
-  --gold-050: #f2e1db;
+  /* ── VURGU (Yeşil Mürekkep — tutarlar) ─────── */
+  --gold: #3d6b47;
+  --gold-050: #e7efe8;
 
   /* ── FİNANSAL ──────────────────────────────── */
-  --warn: #c62828;
-  --pos: #2e7d32;
+  --warn: #b3261e;
+  --pos: #2e6b3f;
 
-  /* ── GEOMETRİ (Resmi/Köşeli) ───────────────── */
-  --radius: 8px;
-  --shadow: 0 4px 12px rgba(54, 40, 30, 0.07), 0 2px 4px rgba(54, 40, 30, 0.03);
+  /* ── GEOMETRİ: defter blokları köşeli, aksiyonlar yuvarlak ── */
+  --radius: 0px;
+  --radius-action: 999px;
+  --shadow: 0 1px 2px rgba(43, 38, 32, 0.06), 0 6px 16px -8px rgba(43, 38, 32, 0.1);
 }
 a {
-  text-decoration-color: rgba(162, 85, 29, 0.35);
+  text-decoration-color: rgba(140, 47, 57, 0.35);
 }
 a:hover {
-  color: #7e4216;
-  text-decoration-color: #7e4216;
+  color: var(--brand);
+  text-decoration-color: var(--brand);
 }
-.topnav a:hover,
-.topnav a[aria-current="page"] {
-  color: #7e4216;
-  background: rgba(162, 85, 29, 0.08);
-  border-color: rgba(162, 85, 29, 0.3);
-}
-.note {
-  border-color: rgba(138, 109, 28, 0.4);
-  color: #6b5516;
-}
-.badge {
-  border-color: rgba(138, 109, 28, 0.3);
-}
-.chip {
-  border-color: rgba(162, 85, 29, 0.25);
-}
-.card:hover,
-.gcard:hover {
-  box-shadow:
-    0 12px 24px -10px rgba(80, 60, 25, 0.15),
-    0 0 0 1px rgba(162, 85, 29, 0.12);
+.topnav a:hover {
+  color: var(--brand);
+  background: rgba(140, 47, 57, 0.06);
 }
 .bar i {
-  background: linear-gradient(90deg, #8a6d1c, #b8952e);
+  background: var(--gold);
 }
 .bar i.green {
-  background: linear-gradient(90deg, #5c7a2e, #7f9c44);
+  background: var(--pos);
 }
 
 * {
@@ -106,7 +89,7 @@ a {
   color: var(--brand);
   text-decoration: underline;
   text-underline-offset: 3px;
-  text-decoration-color: rgba(162, 85, 29, 0.35);
+  text-decoration-color: rgba(140, 47, 57, 0.35);
   cursor: pointer;
   transition:
     color 0.15s ease,
@@ -114,8 +97,8 @@ a {
     background-color 0.15s ease;
 }
 a:hover {
-  color: #7e4216;
-  text-decoration-color: #7e4216;
+  color: var(--brand);
+  text-decoration-color: var(--brand);
 }
 a:focus-visible {
   outline: 2px solid var(--brand);
@@ -161,13 +144,13 @@ a:focus-visible {
   width: 30px;
   height: 30px;
   border-radius: 9px;
-  background: linear-gradient(135deg, var(--brand), #f0c896);
+  background: var(--brand);
   display: grid;
   place-items: center;
   color: #fff;
   font-size: 15px;
   font-weight: 800;
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
 }
 .brand .brand-txt {
   line-height: 1.15;
@@ -190,7 +173,7 @@ a:focus-visible {
   color: var(--ink-soft);
   text-decoration: none;
   padding: 7px 15px;
-  border-radius: 999px;
+  border-radius: var(--radius-action);
   font-size: 13.5px;
   font-weight: 600;
   border: 1px solid var(--line);
@@ -198,9 +181,9 @@ a:focus-visible {
 }
 .topnav a:hover,
 .topnav a[aria-current="page"] {
-  background: rgba(162, 85, 29, 0.08);
-  color: var(--brand);
-  border-color: rgba(162, 85, 29, 0.3);
+  background: var(--brand);
+  color: var(--brand-deep);
+  border-color: var(--brand);
 }
 
 .shell {
@@ -223,11 +206,11 @@ a:focus-visible {
   font-weight: 600;
   text-decoration: underline;
   text-underline-offset: 3px;
-  text-decoration-color: rgba(162, 85, 29, 0.35);
+  text-decoration-color: rgba(140, 47, 57, 0.35);
 }
 .breadcrumb a:hover {
-  color: #7e4216;
-  text-decoration-color: #7e4216;
+  color: var(--brand);
+  text-decoration-color: var(--brand);
 }
 .breadcrumb .sep {
   color: var(--line);
@@ -238,24 +221,23 @@ a:focus-visible {
 }
 
 .hero {
-  background: linear-gradient(135deg, #ffffff 0%, #f5f2eb 100%);
-  border-radius: 20px;
+  background: var(--surface);
   color: var(--ink);
-  padding: 36px 38px 56px;
+  padding: 32px 34px 52px 38px;
   box-shadow: var(--shadow);
   position: relative;
   overflow: hidden;
   border: 1px solid var(--line);
+  border-left: 4px solid var(--brand);
 }
 .hero .kicker {
   font-size: 11.5px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
   color: var(--brand);
   font-weight: 700;
 }
 .hero h1 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-size: clamp(30px, 4.6vw, 48px);
   line-height: 1.04;
   letter-spacing: -0.015em;
@@ -289,13 +271,12 @@ a:focus-visible {
 }
 .stat .label {
   font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.01em;
   color: var(--ink-soft);
   font-weight: 700;
 }
 .stat .num {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   font-size: 24px;
   margin-top: 3px;
@@ -316,7 +297,7 @@ a:focus-visible {
   margin: 40px 0 14px;
 }
 .sec-title h2 {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   font-size: 22px;
   margin: 0;
@@ -324,7 +305,7 @@ a:focus-visible {
   color: var(--ink);
 }
 .sec-title .hash {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-style: italic;
   color: var(--brand);
   font-size: 13.5px;
@@ -355,7 +336,7 @@ a:focus-visible {
   gap: 10px;
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: var(--radius-action);
   padding: 10px 18px;
   box-shadow: var(--shadow);
   flex: 1;
@@ -395,7 +376,7 @@ a:focus-visible {
 .card {
   background: var(--surface);
   border: 1px solid var(--line-soft);
-  border-radius: var(--radius);
+  border-left: 3px solid var(--line);
   box-shadow: var(--shadow);
   padding: 18px 20px;
   display: flex;
@@ -407,8 +388,7 @@ a:focus-visible {
     border-color 0.16s ease;
 }
 .card:hover {
-  transform: translateY(-2px);
-  border-color: var(--brand);
+  border-left-color: var(--brand);
 }
 .card .card-top {
   display: flex;
@@ -417,7 +397,7 @@ a:focus-visible {
   gap: 12px;
 }
 .card .ada {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   font-size: 22px;
   color: var(--ink);
@@ -448,10 +428,10 @@ a:focus-visible {
   display: block;
   height: 100%;
   border-radius: 99px;
-  background: linear-gradient(90deg, var(--gold), #f5d693);
+  background: var(--gold);
 }
 .bar i.green {
-  background: linear-gradient(90deg, var(--pos), #c8e6a3);
+  background: var(--pos);
 }
 
 .chips {
@@ -465,19 +445,22 @@ a:focus-visible {
   gap: 5px;
   padding: 4px 12px;
   font-size: 12.5px;
-  border-radius: 999px;
+  border-radius: var(--radius-action);
   background: var(--brand-050);
-  border: 1px solid rgba(162, 85, 29, 0.25);
+  border: 1px solid rgba(140, 47, 57, 0.25);
   color: var(--brand);
   text-decoration: none;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.15s ease;
 }
-.chip::after {
-  content: "›";
+.chip::before {
+  content: "";
+  width: 3px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--brand);
   opacity: 0.55;
-  font-weight: 700;
 }
 .chip:hover {
   background: var(--brand);
@@ -491,7 +474,7 @@ a:focus-visible {
 .gcard {
   background: var(--surface);
   border: 1px solid var(--line-soft);
-  border-radius: var(--radius);
+  border-left: 3px solid var(--line);
   box-shadow: var(--shadow);
   padding: 18px 20px;
   display: flex;
@@ -503,11 +486,10 @@ a:focus-visible {
     border-color 0.16s ease;
 }
 .gcard:hover {
-  transform: translateY(-2px);
-  border-color: var(--brand);
+  border-left-color: var(--brand);
 }
 .gcard .gname {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   font-size: 19px;
 }
@@ -535,9 +517,9 @@ a:focus-visible {
 .badge {
   display: inline-block;
   padding: 2px 10px;
-  border-radius: 999px;
+  border-radius: var(--radius-action);
   background: var(--gold-050);
-  border: 1px solid rgba(236, 196, 98, 0.3);
+  border: 1px solid rgba(61, 107, 71, 0.3);
   color: var(--gold);
   font-size: 11.5px;
   font-weight: 700;
@@ -546,7 +528,7 @@ a:focus-visible {
 .page-head {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-left: 4px solid var(--brand);
   box-shadow: var(--shadow);
   padding: 24px 28px;
   display: grid;
@@ -555,14 +537,15 @@ a:focus-visible {
   align-items: end;
 }
 .page-head .crumb-label {
-  font-size: 11px;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  color: var(--brand);
-  font-weight: 700;
+  font-size: 12.5px;
+  letter-spacing: 0.01em;
+  color: var(--ink-soft);
+  font-weight: 600;
+  font-style: italic;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
 }
 .page-head h2 {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   font-size: clamp(26px, 3.4vw, 34px);
   margin: 5px 0 0;
@@ -606,16 +589,16 @@ table {
   font-size: 13.5px;
 }
 thead th {
-  background: var(--paper);
+  background: var(--surface);
   color: var(--ink-soft);
-  padding: 13px 12px;
+  padding: 12px;
   text-align: left;
   font-weight: 600;
   white-space: nowrap;
-  border-bottom: 1px solid var(--line);
-  text-transform: uppercase;
-  font-size: 11px;
-  letter-spacing: 0.05em;
+  border-bottom: 1.5px solid var(--ink);
+  font-size: 12.5px;
+  font-style: italic;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
 }
 thead th.num {
   text-align: right;
@@ -627,6 +610,9 @@ tbody td {
 }
 tbody tr:nth-child(even) {
   background: var(--surface-2);
+}
+tbody td:first-child {
+  padding-left: 14px;
 }
 tbody tr:hover {
   background: var(--surface-3);
@@ -655,7 +641,7 @@ tr.empty td.muted {
   font-style: italic;
 }
 .rank {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-style: italic;
   color: var(--ink-soft);
   text-align: right;
@@ -673,16 +659,22 @@ tr.empty td.muted {
 
 .note {
   margin-top: 28px;
-  border: 1px dashed rgba(236, 196, 98, 0.4);
+  border-left: 3px solid var(--gold);
   background: var(--gold-050);
-  border-radius: var(--radius);
   padding: 14px 18px;
   font-size: 13px;
-  color: #b48a25;
+  color: #2c5237;
 }
 .note b {
   color: var(--warn);
 }
+.pname {
+  font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+}
+
 .foot {
   margin-top: 52px;
   padding-top: 18px;
@@ -701,7 +693,7 @@ tr.empty td.muted {
   letter-spacing: 0.02em;
 }
 .foot .credit b {
-  font-family: Georgia, serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   color: var(--ink);
 }
@@ -756,21 +748,20 @@ tr.empty td.muted {
   text-align: center;
   font-size: 10.5px;
   font-weight: 700;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  letter-spacing: 0.01em;
   padding: 2px 8px;
-  border-radius: 999px;
+  border-radius: var(--radius-action);
   border: 1px solid transparent;
 }
 .ac-type.parsel {
   background: var(--gold-050);
   color: var(--gold);
-  border-color: rgba(236, 196, 98, 0.3);
+  border-color: rgba(61, 107, 71, 0.3);
 }
 .ac-type.grup {
   background: var(--brand-050);
   color: var(--brand);
-  border-color: rgba(162, 85, 29, 0.3);
+  border-color: rgba(140, 47, 57, 0.3);
 }
 .ac-type.kisi {
   background: var(--line-soft);
@@ -923,9 +914,9 @@ tr.empty td.muted {
     text-decoration: none;
   }
   .topnav a[aria-current="page"] {
-    background: rgba(162, 85, 29, 0.05);
-    color: var(--brand);
-    box-shadow: inset 0 3px 0 var(--brand);
+    background: var(--brand);
+    color: var(--brand-deep);
+    box-shadow: none;
     border: none;
   }
   .shell {
@@ -1047,7 +1038,7 @@ tr.empty td.muted {
     text-align: left;
     border-top: 0;
     padding: 8px 0 10px;
-    font-family: Georgia, serif;
+    font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
     font-size: 18px;
   }
   .table-wrap tbody td.rank {
@@ -1096,5 +1087,16 @@ tr.empty td.muted {
   }
   .topnav {
     margin-left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

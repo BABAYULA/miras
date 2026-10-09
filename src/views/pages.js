@@ -15,7 +15,7 @@ export function viewParcels() {
       <div class="stat"><div class="label">Listede adı geçen mirasçı</div><div class="num">${data.people_count_listed}<small>rapora göre ${data.people_count_excel}</small></div></div>
       <div class="stat"><div class="label">Toplam değer</div><div class="num">${fmtTL(data.total_value)}</div></div>
     </section>
-    <div class="sec-title"><span class="hash">§ 01</span><h2>Arsalar</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Arsalar</h2><span class="line"></span></div>
     <div class="toolbar">
       <div class="search-wrap"><label class="search">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
@@ -36,7 +36,7 @@ export function viewGroups() {
     .map((gk) => cardGrup(data, gk, maxTotal))
     .join("");
   return `
-    <div class="sec-title"><span class="hash">§ 01</span><h2>Hissedar Grupları</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Hissedar Grupları</h2><span class="line"></span></div>
     <p class="footnote">Grup adına tıklayınca o grubun üyeleri ve pay aldığı parseller açılır. Kartlar toplam pay büyüklüğüne göre sıralanmıştır.</p>
     <div class="grid">${cards}</div>
   `;
@@ -65,7 +65,7 @@ export function viewParcelDetail({ pk }) {
         <dt>Hak sahibi grup</dt><dd>${data.parcel_mirasci[pk]} grup</dd>
       </dl>
     </div>
-    <div class="sec-title"><span class="hash">§ 02</span><h2>Hissedar grupları</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Hissedar grupları</h2><span class="line"></span></div>
     <div class="table-wrap">
       <table>
         <thead><tr><th>Grup</th><th class="num">Kişi</th><th class="num">Gruba düşen oran</th><th class="num">Kişi başı oran</th><th class="num">Gruba düşen tutar</th></tr></thead>
@@ -100,7 +100,7 @@ export function viewGroup({ gk }) {
         <dt>Toplam payları</dt><dd>${fmtTL(gt)}</dd>
       </dl>
     </div>
-    <div class="sec-title"><span class="hash">§ 02</span><h2>Grup üyeleri ve payları</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Grup üyeleri ve payları</h2><span class="line"></span></div>
     <p class="footnote">İsme tıklayınca o kişinin hangi parsellerden ne kadar pay aldığı açılır.</p>
     <div class="table-wrap">
       <table>
@@ -108,7 +108,7 @@ export function viewGroup({ gk }) {
         <tbody>${memberRows}</tbody>
       </table>
     </div>
-    <div class="sec-title"><span class="hash">§ 03</span><h2>Bu grubun pay aldığı parseller</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Bu grubun pay aldığı parseller</h2><span class="line"></span></div>
     ${
       parcelRows
         ? `<div class="table-wrap"><table>
@@ -139,7 +139,7 @@ export function viewPerson({ ad }) {
         <dt>Toplam payı</dt><dd>${fmtTL(p.toplam)}</dd>
       </dl>
     </div>
-    <div class="sec-title"><span class="hash">§ 02</span><h2>Parsel bazlı dağılım</h2><span class="line"></span></div>
+    <div class="sec-title"><h2>Parsel bazlı dağılım</h2><span class="line"></span></div>
     <div class="table-wrap">
       <table>
         <thead><tr><th>Parsel</th><th class="num">Yüzölçüm</th><th class="num">Toplam değer</th><th class="num">Kişi başı oran</th><th class="num">Payı</th></tr></thead>
