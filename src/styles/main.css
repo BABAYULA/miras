@@ -181,9 +181,9 @@ a:focus-visible {
 }
 .topnav a:hover,
 .topnav a[aria-current="page"] {
-  background: var(--brand);
-  color: var(--brand-deep);
-  border-color: var(--brand);
+  background: rgba(140, 47, 57, 0.08);
+  color: var(--brand);
+  border-color: rgba(140, 47, 57, 0.3);
 }
 
 .shell {
@@ -904,8 +904,8 @@ tr.empty td.muted {
     text-decoration: none;
   }
   .topnav a[aria-current="page"] {
-    background: var(--brand);
-    color: var(--brand-deep);
+    background: rgba(140, 47, 57, 0.08);
+    color: var(--brand);
     box-shadow: none;
     border: none;
   }
