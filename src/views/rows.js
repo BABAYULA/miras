@@ -100,7 +100,7 @@ export function cardGrup(D, gk, maxTotal) {
   const total = D.group_totals[gk] || 0;
   const listed = D.people.filter((p) => p.grup === gk).length;
   return `<article class="gcard">
-    <div class="gname">${linkGrup(D, gk)}</div>
+    <div class="gname"><a class="chip" href="#/group/${slugP(gk)}">${esc(gname(D, gk))}</a></div>
     <div class="bar"><i class="green" style="width:${Math.max(2, (total / maxTotal) * 100).toFixed(1)}%"></i></div>
     <div class="gmeta">
       <span class="badge">${g.kisi_sayisi} kişi</span>

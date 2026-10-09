@@ -479,17 +479,8 @@ a:focus-visible {
 .gcard:hover {
   border-left-color: var(--brand);
 }
-.gcard .gname {
-  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
-  font-weight: 700;
-  font-size: 19px;
-}
-.gcard .gname a {
-  color: var(--ink);
-  text-decoration: none;
-}
-.gcard .gname a:hover {
-  color: var(--brand);
+.gcard .gname .chip {
+  font-size: 14px;
 }
 .gcard .gmeta {
   display: flex;
