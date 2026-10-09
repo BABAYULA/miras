@@ -1,0 +1,2995 @@
+{
+  "il": "Muş",
+  "ilce": "Varto",
+  "mah": "Dönertaş",
+  "parcels": [
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "28",
+      "yuzolcum": 76500,
+      "deger": 9099828000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "20",
+      "yuzolcum": 3500,
+      "deger": 416332000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "29",
+      "yuzolcum": 7400,
+      "deger": 880244800
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "36",
+      "yuzolcum": 25000,
+      "deger": 2973800000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "32",
+      "yuzolcum": 6250,
+      "deger": 743450000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "17",
+      "yuzolcum": 10000,
+      "deger": 1189520000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "135",
+      "yuzolcum": 9400,
+      "deger": 1118148800
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "148",
+      "yuzolcum": 5500,
+      "deger": 654236000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "119",
+      "yuzolcum": 71500,
+      "deger": 8505068000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "154",
+      "yuzolcum": 7250,
+      "deger": 862402000
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "278",
+      "yuzolcum": 624,
+      "deger": 120676.55
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "10",
+      "parsel": "276",
+      "yuzolcum": 292,
+      "deger": 56470.43
+    },
+    {
+      "il": "Muş",
+      "ilce": "Varto",
+      "mah": "Dönertaş",
+      "ada": "0",
+      "parsel": "137",
+      "yuzolcum": 5500,
+      "deger": 1063655.45
+    }
+  ],
+  "parcel_data": {
+    "10-28": {
+      "ada": "10",
+      "parsel": "28",
+      "yuzolcum": 76500,
+      "deger": 9099828000,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0,
+        "SerhatTeke": 0,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0.4,
+        "ŞükrüKılıç": 0.2
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0,
+        "SerhatTeke": 0,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0.4,
+        "ŞükrüKılıç": 0.2
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-20": {
+      "ada": "10",
+      "parsel": "20",
+      "yuzolcum": 3500,
+      "deger": 416332000,
+      "kisi_basi": {
+        "HalisTemel": 0,
+        "HüseyinTeke": 0,
+        "HıdırTeke": 0,
+        "SaniyeTuran": 0.14285714285714282,
+        "SerhatTeke": 0.047619047619047665,
+        "TurhanTemel": 0,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0,
+        "HüseyinTeke": 0,
+        "HıdırTeke": 0,
+        "SaniyeTuran": 0.857142857142857,
+        "SerhatTeke": 0.142857142857143,
+        "TurhanTemel": 0,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-29": {
+      "ada": "10",
+      "parsel": "29",
+      "yuzolcum": 7400,
+      "deger": 880244800,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0.05714285714285717,
+        "SerhatTeke": 0.019047619047619067,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0.342857142857143,
+        "SerhatTeke": 0.0571428571428572,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-36": {
+      "ada": "0",
+      "parsel": "36",
+      "yuzolcum": 25000,
+      "deger": 2973800000,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0.05714285714285717,
+        "SerhatTeke": 0.019047619047619067,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0.2,
+        "ŞükrüKılıç": 0
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0.342857142857143,
+        "SerhatTeke": 0.0571428571428572,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0.2,
+        "ŞükrüKılıç": 0
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-32": {
+      "ada": "10",
+      "parsel": "32",
+      "yuzolcum": 6250,
+      "deger": 743450000,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0.05714285714285717,
+        "SerhatTeke": 0.019047619047619067,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0.342857142857143,
+        "SerhatTeke": 0.0571428571428572,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-17": {
+      "ada": "0",
+      "parsel": "17",
+      "yuzolcum": 10000,
+      "deger": 1189520000,
+      "kisi_basi": {
+        "HalisTemel": 0.010416666666666666,
+        "HüseyinTeke": 0.028645833333333374,
+        "HıdırTeke": 0.003472222222222217,
+        "SaniyeTuran": 0.035714285714285664,
+        "SerhatTeke": 0.011904761904761899,
+        "TurhanTemel": 0.03125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.125,
+        "HüseyinTeke": 0.229166666666667,
+        "HıdırTeke": 0.0208333333333333,
+        "SaniyeTuran": 0.214285714285714,
+        "SerhatTeke": 0.0357142857142857,
+        "TurhanTemel": 0.125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-135": {
+      "ada": "0",
+      "parsel": "135",
+      "yuzolcum": 9400,
+      "deger": 1118148800,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0.05714285714285717,
+        "SerhatTeke": 0.019047619047619067,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0.342857142857143,
+        "SerhatTeke": 0.0571428571428572,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-148": {
+      "ada": "10",
+      "parsel": "148",
+      "yuzolcum": 5500,
+      "deger": 654236000,
+      "kisi_basi": {
+        "HalisTemel": 0.010416666666666666,
+        "HüseyinTeke": 0.028645833333333374,
+        "HıdırTeke": 0.003472222222222217,
+        "SaniyeTuran": 0.035714285714285664,
+        "SerhatTeke": 0.011904761904761899,
+        "TurhanTemel": 0.03125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.125,
+        "HüseyinTeke": 0.229166666666667,
+        "HıdırTeke": 0.0208333333333333,
+        "SaniyeTuran": 0.214285714285714,
+        "SerhatTeke": 0.0357142857142857,
+        "TurhanTemel": 0.125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-119": {
+      "ada": "0",
+      "parsel": "119",
+      "yuzolcum": 71500,
+      "deger": 8505068000,
+      "kisi_basi": {
+        "HalisTemel": 0.010416666666666666,
+        "HüseyinTeke": 0.028645833333333374,
+        "HıdırTeke": 0.003472222222222217,
+        "SaniyeTuran": 0.035714285714285664,
+        "SerhatTeke": 0.011904761904761899,
+        "TurhanTemel": 0.03125,
+        "SavaşTeke": 0.25,
+        "ŞükrüKılıç": 0
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.125,
+        "HüseyinTeke": 0.229166666666667,
+        "HıdırTeke": 0.0208333333333333,
+        "SaniyeTuran": 0.214285714285714,
+        "SerhatTeke": 0.0357142857142857,
+        "TurhanTemel": 0.125,
+        "SavaşTeke": 0.25,
+        "ŞükrüKılıç": 0
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-154": {
+      "ada": "10",
+      "parsel": "154",
+      "yuzolcum": 7250,
+      "deger": 862402000,
+      "kisi_basi": {
+        "HalisTemel": 0.041666666666666664,
+        "HüseyinTeke": 0,
+        "HıdırTeke": 0,
+        "SaniyeTuran": 0,
+        "SerhatTeke": 0,
+        "TurhanTemel": 0.125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.5,
+        "HüseyinTeke": 0,
+        "HıdırTeke": 0,
+        "SaniyeTuran": 0,
+        "SerhatTeke": 0,
+        "TurhanTemel": 0.5,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-278": {
+      "ada": "0",
+      "parsel": "278",
+      "yuzolcum": 624,
+      "deger": 120676.55,
+      "kisi_basi": {
+        "HalisTemel": 0.020833333333333332,
+        "HüseyinTeke": 0.01909722222222225,
+        "HıdırTeke": 0.002314814814814817,
+        "SaniyeTuran": 0.023809523809523832,
+        "SerhatTeke": 0.007936507936507934,
+        "TurhanTemel": 0.0625,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.166666666666667
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.25,
+        "HüseyinTeke": 0.152777777777778,
+        "HıdırTeke": 0.0138888888888889,
+        "SaniyeTuran": 0.142857142857143,
+        "SerhatTeke": 0.0238095238095238,
+        "TurhanTemel": 0.25,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.166666666666667
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "10-276": {
+      "ada": "10",
+      "parsel": "276",
+      "yuzolcum": 292,
+      "deger": 56470.43,
+      "kisi_basi": {
+        "HalisTemel": 0.010416666666666666,
+        "HüseyinTeke": 0.028645833333333374,
+        "HıdırTeke": 0.003472222222222217,
+        "SaniyeTuran": 0.035714285714285664,
+        "SerhatTeke": 0.011904761904761899,
+        "TurhanTemel": 0.03125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.125,
+        "HüseyinTeke": 0.229166666666667,
+        "HıdırTeke": 0.0208333333333333,
+        "SaniyeTuran": 0.214285714285714,
+        "SerhatTeke": 0.0357142857142857,
+        "TurhanTemel": 0.125,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.25
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    },
+    "0-137": {
+      "ada": "0",
+      "parsel": "137",
+      "yuzolcum": 5500,
+      "deger": 1063655.45,
+      "kisi_basi": {
+        "HalisTemel": 0.008333333333333333,
+        "HüseyinTeke": 0.022916666666666623,
+        "HıdırTeke": 0.0027777777777777835,
+        "SaniyeTuran": 0.05714285714285717,
+        "SerhatTeke": 0.019047619047619067,
+        "TurhanTemel": 0.025,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "gruba_dusen": {
+        "HalisTemel": 0.1,
+        "HüseyinTeke": 0.183333333333333,
+        "HıdırTeke": 0.0166666666666667,
+        "SaniyeTuran": 0.342857142857143,
+        "SerhatTeke": 0.0571428571428572,
+        "TurhanTemel": 0.1,
+        "SavaşTeke": 0,
+        "ŞükrüKılıç": 0.2
+      },
+      "grup_kisi": {
+        "HalisTemel": 12,
+        "HüseyinTeke": 8,
+        "HıdırTeke": 6,
+        "SaniyeTuran": 6,
+        "SerhatTeke": 3,
+        "TurhanTemel": 4,
+        "SavaşTeke": 1,
+        "ŞükrüKılıç": 1
+      }
+    }
+  },
+  "parcel_mirasci": {
+    "10-28": 6,
+    "10-20": 2,
+    "10-29": 7,
+    "0-36": 7,
+    "10-32": 7,
+    "0-17": 7,
+    "0-135": 7,
+    "10-148": 7,
+    "0-119": 7,
+    "10-154": 2,
+    "0-278": 7,
+    "10-276": 7,
+    "0-137": 7
+  },
+  "parcel_groups": {
+    "10-28": ["HıdırTeke", "HalisTemel", "HüseyinTeke", "SavaşTeke", "TurhanTemel", "ŞükrüKılıç"],
+    "10-20": ["SaniyeTuran", "SerhatTeke"],
+    "10-29": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "0-36": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SavaşTeke",
+      "SerhatTeke",
+      "TurhanTemel"
+    ],
+    "10-32": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "0-17": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "0-135": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "10-148": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "0-119": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SavaşTeke",
+      "SerhatTeke",
+      "TurhanTemel"
+    ],
+    "10-154": ["HalisTemel", "TurhanTemel"],
+    "0-278": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "10-276": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ],
+    "0-137": [
+      "HıdırTeke",
+      "HalisTemel",
+      "HüseyinTeke",
+      "SaniyeTuran",
+      "SerhatTeke",
+      "TurhanTemel",
+      "ŞükrüKılıç"
+    ]
+  },
+  "groups": {
+    "HalisTemel": {
+      "ad": "Halis Temel",
+      "kisi_sayisi": 12,
+      "uyeler": [
+        "Kahire Bingöl",
+        "Burhan Temel",
+        "İlhan Temel",
+        "Erdinç Temel",
+        "Yoldaş Temel",
+        "Oktay Temel",
+        "Okay Temel",
+        "Hakan Temel",
+        "Güneş Temel",
+        "Eylem Yeşil",
+        "Özlem Aktaş",
+        "Türkan Temel"
+      ]
+    },
+    "HüseyinTeke": {
+      "ad": "Hüseyin Teke",
+      "kisi_sayisi": 8,
+      "uyeler": [
+        "Mehmet Teke",
+        "Haki Teke",
+        "Türkan Sağlam",
+        "Hasan Teke",
+        "Tunay Teke",
+        "Kemal Teke",
+        "Yılmaz Teke",
+        "Erdal Teke"
+      ]
+    },
+    "HıdırTeke": {
+      "ad": "Hıdır Teke",
+      "kisi_sayisi": 6,
+      "uyeler": [
+        "Binali Teke",
+        "Fatma Tekin",
+        "Pamuk Teke",
+        "Güzel Korkmaz",
+        "Çayan Teke",
+        "Elif Teke"
+      ]
+    },
+    "SaniyeTuran": {
+      "ad": "Saniye Turhan",
+      "kisi_sayisi": 6,
+      "uyeler": [
+        "Saniye Turhan",
+        "Songül Dönmez",
+        "Celal Teke",
+        "Kahraman Teke",
+        "Savaş Teke",
+        "Haydar Teke"
+      ]
+    },
+    "SerhatTeke": {
+      "ad": "Serhat Teke",
+      "kisi_sayisi": 3,
+      "uyeler": ["Serhat Teke", "Goncagül Teke", "Murt Onur Teke"]
+    },
+    "TurhanTemel": {
+      "ad": "Turhan Temel",
+      "kisi_sayisi": 4,
+      "uyeler": ["Güzel Temel", "Gülçin Temel Mercan", "Ulaş Akın Temel", "Erhan Temel"]
+    },
+    "SavaşTeke": {
+      "ad": "Savaş Teke",
+      "kisi_sayisi": 1,
+      "uyeler": ["Savaş Teke"]
+    },
+    "ŞükrüKılıç": {
+      "ad": "Şükrü Kılıç",
+      "kisi_sayisi": 1,
+      "uyeler": ["Şükrü Kılıç"]
+    }
+  },
+  "group_totals": {
+    "HalisTemel": 3206494753.48625,
+    "HüseyinTeke": 5088001674.667846,
+    "HıdırTeke": 462545606.7879863,
+    "SaniyeTuran": 4534504399.324997,
+    "SerhatTeke": 755750733.2208335,
+    "TurhanTemel": 3206494753.48625,
+    "SavaşTeke": 6360958200,
+    "ŞükrüKılıç": 2829520281.4558334
+  },
+  "people": [
+    {
+      "ad": "Savaş Teke",
+      "key": "Savaş Teke|SavaşTeke",
+      "grup": "SavaşTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.4,
+          "miktar": 3639931200
+        },
+        "0-36": {
+          "oran": 0.2,
+          "miktar": 594760000
+        },
+        "0-119": {
+          "oran": 0.25,
+          "miktar": 2126267000
+        }
+      },
+      "toplam": 6360958200,
+      "arsalar": 3
+    },
+    {
+      "ad": "Şükrü Kılıç",
+      "key": "Şükrü Kılıç|ŞükrüKılıç",
+      "grup": "ŞükrüKılıç",
+      "parseller": {
+        "10-28": {
+          "oran": 0.2,
+          "miktar": 1819965600
+        },
+        "10-29": {
+          "oran": 0.2,
+          "miktar": 176048960
+        },
+        "10-32": {
+          "oran": 0.2,
+          "miktar": 148690000
+        },
+        "0-17": {
+          "oran": 0.25,
+          "miktar": 297380000
+        },
+        "0-135": {
+          "oran": 0.2,
+          "miktar": 223629760
+        },
+        "10-148": {
+          "oran": 0.25,
+          "miktar": 163559000
+        },
+        "0-278": {
+          "oran": 0.166666666666667,
+          "miktar": 20112.75833333337
+        },
+        "10-276": {
+          "oran": 0.25,
+          "miktar": 14117.6075
+        },
+        "0-137": {
+          "oran": 0.2,
+          "miktar": 212731.09
+        }
+      },
+      "toplam": 2829520281.4558334,
+      "arsalar": 9
+    },
+    {
+      "ad": "Güzel Temel",
+      "key": "Güzel Temel|TurhanTemel",
+      "grup": "TurhanTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.025,
+          "miktar": 227495700
+        },
+        "10-29": {
+          "oran": 0.025,
+          "miktar": 22006120
+        },
+        "0-36": {
+          "oran": 0.025,
+          "miktar": 74345000
+        },
+        "10-32": {
+          "oran": 0.025,
+          "miktar": 18586250
+        },
+        "0-17": {
+          "oran": 0.03125,
+          "miktar": 37172500
+        },
+        "0-135": {
+          "oran": 0.025,
+          "miktar": 27953720
+        },
+        "10-148": {
+          "oran": 0.03125,
+          "miktar": 20444875
+        },
+        "0-119": {
+          "oran": 0.03125,
+          "miktar": 265783375
+        },
+        "10-154": {
+          "oran": 0.125,
+          "miktar": 107800250
+        },
+        "0-278": {
+          "oran": 0.0625,
+          "miktar": 7542.284375
+        },
+        "10-276": {
+          "oran": 0.03125,
+          "miktar": 1764.7009375
+        },
+        "0-137": {
+          "oran": 0.025,
+          "miktar": 26591.38625
+        }
+      },
+      "toplam": 801623688.3715625,
+      "arsalar": 12
+    },
+    {
+      "ad": "Gülçin Temel Mercan",
+      "key": "Gülçin Temel Mercan|TurhanTemel",
+      "grup": "TurhanTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.025,
+          "miktar": 227495700
+        },
+        "10-29": {
+          "oran": 0.025,
+          "miktar": 22006120
+        },
+        "0-36": {
+          "oran": 0.025,
+          "miktar": 74345000
+        },
+        "10-32": {
+          "oran": 0.025,
+          "miktar": 18586250
+        },
+        "0-17": {
+          "oran": 0.03125,
+          "miktar": 37172500
+        },
+        "0-135": {
+          "oran": 0.025,
+          "miktar": 27953720
+        },
+        "10-148": {
+          "oran": 0.03125,
+          "miktar": 20444875
+        },
+        "0-119": {
+          "oran": 0.03125,
+          "miktar": 265783375
+        },
+        "10-154": {
+          "oran": 0.125,
+          "miktar": 107800250
+        },
+        "0-278": {
+          "oran": 0.0625,
+          "miktar": 7542.284375
+        },
+        "10-276": {
+          "oran": 0.03125,
+          "miktar": 1764.7009375
+        },
+        "0-137": {
+          "oran": 0.025,
+          "miktar": 26591.38625
+        }
+      },
+      "toplam": 801623688.3715625,
+      "arsalar": 12
+    },
+    {
+      "ad": "Ulaş Akın Temel",
+      "key": "Ulaş Akın Temel|TurhanTemel",
+      "grup": "TurhanTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.025,
+          "miktar": 227495700
+        },
+        "10-29": {
+          "oran": 0.025,
+          "miktar": 22006120
+        },
+        "0-36": {
+          "oran": 0.025,
+          "miktar": 74345000
+        },
+        "10-32": {
+          "oran": 0.025,
+          "miktar": 18586250
+        },
+        "0-17": {
+          "oran": 0.03125,
+          "miktar": 37172500
+        },
+        "0-135": {
+          "oran": 0.025,
+          "miktar": 27953720
+        },
+        "10-148": {
+          "oran": 0.03125,
+          "miktar": 20444875
+        },
+        "0-119": {
+          "oran": 0.03125,
+          "miktar": 265783375
+        },
+        "10-154": {
+          "oran": 0.125,
+          "miktar": 107800250
+        },
+        "0-278": {
+          "oran": 0.0625,
+          "miktar": 7542.284375
+        },
+        "10-276": {
+          "oran": 0.03125,
+          "miktar": 1764.7009375
+        },
+        "0-137": {
+          "oran": 0.025,
+          "miktar": 26591.38625
+        }
+      },
+      "toplam": 801623688.3715625,
+      "arsalar": 12
+    },
+    {
+      "ad": "Erhan Temel",
+      "key": "Erhan Temel|TurhanTemel",
+      "grup": "TurhanTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.025,
+          "miktar": 227495700
+        },
+        "10-29": {
+          "oran": 0.025,
+          "miktar": 22006120
+        },
+        "0-36": {
+          "oran": 0.025,
+          "miktar": 74345000
+        },
+        "10-32": {
+          "oran": 0.025,
+          "miktar": 18586250
+        },
+        "0-17": {
+          "oran": 0.03125,
+          "miktar": 37172500
+        },
+        "0-135": {
+          "oran": 0.025,
+          "miktar": 27953720
+        },
+        "10-148": {
+          "oran": 0.03125,
+          "miktar": 20444875
+        },
+        "0-119": {
+          "oran": 0.03125,
+          "miktar": 265783375
+        },
+        "10-154": {
+          "oran": 0.125,
+          "miktar": 107800250
+        },
+        "0-278": {
+          "oran": 0.0625,
+          "miktar": 7542.284375
+        },
+        "10-276": {
+          "oran": 0.03125,
+          "miktar": 1764.7009375
+        },
+        "0-137": {
+          "oran": 0.025,
+          "miktar": 26591.38625
+        }
+      },
+      "toplam": 801623688.3715625,
+      "arsalar": 12
+    },
+    {
+      "ad": "Türkan Temel",
+      "key": "Türkan Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.025,
+          "miktar": 227495700
+        },
+        "10-29": {
+          "oran": 0.025,
+          "miktar": 22006120
+        },
+        "0-36": {
+          "oran": 0.025,
+          "miktar": 74345000
+        },
+        "10-32": {
+          "oran": 0.025,
+          "miktar": 18586250
+        },
+        "0-17": {
+          "oran": 0.03125,
+          "miktar": 37172500
+        },
+        "0-135": {
+          "oran": 0.025,
+          "miktar": 27953720
+        },
+        "10-148": {
+          "oran": 0.03125,
+          "miktar": 20444875
+        },
+        "0-119": {
+          "oran": 0.03125,
+          "miktar": 265783375
+        },
+        "10-154": {
+          "oran": 0.125,
+          "miktar": 107800250
+        },
+        "0-278": {
+          "oran": 0.0625,
+          "miktar": 7542.284375
+        },
+        "10-276": {
+          "oran": 0.03125,
+          "miktar": 1764.7009375
+        },
+        "0-137": {
+          "oran": 0.025,
+          "miktar": 26591.38625
+        }
+      },
+      "toplam": 801623688.3715625,
+      "arsalar": 12
+    },
+    {
+      "ad": "Saniye Turhan",
+      "key": "Saniye Turhan|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Songül Dönmez",
+      "key": "Songül Dönmez|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Celal Teke",
+      "key": "Celal Teke|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Kahraman Teke",
+      "key": "Kahraman Teke|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Savaş Teke",
+      "key": "Savaş Teke|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Haydar Teke",
+      "key": "Haydar Teke|SaniyeTuran",
+      "grup": "SaniyeTuran",
+      "parseller": {
+        "10-20": {
+          "oran": 0.14285714285714282,
+          "miktar": 59475999.999999985
+        },
+        "10-29": {
+          "oran": 0.05714285714285717,
+          "miktar": 50299702.85714288
+        },
+        "0-36": {
+          "oran": 0.05714285714285717,
+          "miktar": 169931428.57142866
+        },
+        "10-32": {
+          "oran": 0.05714285714285717,
+          "miktar": 42482857.142857164
+        },
+        "0-17": {
+          "oran": 0.035714285714285664,
+          "miktar": 42482857.14285708
+        },
+        "0-135": {
+          "oran": 0.05714285714285717,
+          "miktar": 63894217.14285717
+        },
+        "10-148": {
+          "oran": 0.035714285714285664,
+          "miktar": 23365571.428571396
+        },
+        "0-119": {
+          "oran": 0.035714285714285664,
+          "miktar": 303752428.5714281
+        },
+        "0-278": {
+          "oran": 0.023809523809523832,
+          "miktar": 2873.251190476193
+        },
+        "10-276": {
+          "oran": 0.035714285714285664,
+          "miktar": 2016.8010714285685
+        },
+        "0-137": {
+          "oran": 0.05714285714285717,
+          "miktar": 60780.311428571455
+        }
+      },
+      "toplam": 755750733.2208328,
+      "arsalar": 11
+    },
+    {
+      "ad": "Mehmet Teke",
+      "key": "Mehmet Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Haki Teke",
+      "key": "Haki Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Türkan Sağlam",
+      "key": "Türkan Sağlam|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Hasan Teke",
+      "key": "Hasan Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Tunay Teke",
+      "key": "Tunay Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Kemal Teke",
+      "key": "Kemal Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Yılmaz Teke",
+      "key": "Yılmaz Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Erdal Teke",
+      "key": "Erdal Teke|HüseyinTeke",
+      "grup": "HüseyinTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.022916666666666623,
+          "miktar": 208537724.9999996
+        },
+        "10-29": {
+          "oran": 0.022916666666666623,
+          "miktar": 20172276.666666627
+        },
+        "0-36": {
+          "oran": 0.022916666666666623,
+          "miktar": 68149583.33333321
+        },
+        "10-32": {
+          "oran": 0.022916666666666623,
+          "miktar": 17037395.833333302
+        },
+        "0-17": {
+          "oran": 0.028645833333333374,
+          "miktar": 34074791.66666672
+        },
+        "0-135": {
+          "oran": 0.022916666666666623,
+          "miktar": 25624243.333333284
+        },
+        "10-148": {
+          "oran": 0.028645833333333374,
+          "miktar": 18741135.416666694
+        },
+        "0-119": {
+          "oran": 0.028645833333333374,
+          "miktar": 243634760.416667
+        },
+        "0-278": {
+          "oran": 0.01909722222222225,
+          "miktar": 2304.5868923611147
+        },
+        "10-276": {
+          "oran": 0.028645833333333374,
+          "miktar": 1617.642526041669
+        },
+        "0-137": {
+          "oran": 0.022916666666666623,
+          "miktar": 24375.437395833287
+        }
+      },
+      "toplam": 636000209.3334807,
+      "arsalar": 11
+    },
+    {
+      "ad": "Serhat Teke",
+      "key": "Serhat Teke|SerhatTeke",
+      "grup": "SerhatTeke",
+      "parseller": {
+        "10-20": {
+          "oran": 0.047619047619047665,
+          "miktar": 19825333.33333335
+        },
+        "10-29": {
+          "oran": 0.019047619047619067,
+          "miktar": 16766567.619047636
+        },
+        "0-36": {
+          "oran": 0.019047619047619067,
+          "miktar": 56643809.52380958
+        },
+        "10-32": {
+          "oran": 0.019047619047619067,
+          "miktar": 14160952.380952395
+        },
+        "0-17": {
+          "oran": 0.011904761904761899,
+          "miktar": 14160952.380952373
+        },
+        "0-135": {
+          "oran": 0.019047619047619067,
+          "miktar": 21298072.380952403
+        },
+        "10-148": {
+          "oran": 0.011904761904761899,
+          "miktar": 7788523.809523806
+        },
+        "0-119": {
+          "oran": 0.011904761904761899,
+          "miktar": 101250809.52380948
+        },
+        "0-278": {
+          "oran": 0.007936507936507934,
+          "miktar": 957.7503968253966
+        },
+        "10-276": {
+          "oran": 0.011904761904761899,
+          "miktar": 672.2670238095235
+        },
+        "0-137": {
+          "oran": 0.019047619047619067,
+          "miktar": 20260.10380952383
+        }
+      },
+      "toplam": 251916911.07361117,
+      "arsalar": 11
+    },
+    {
+      "ad": "Goncagül Teke",
+      "key": "Goncagül Teke|SerhatTeke",
+      "grup": "SerhatTeke",
+      "parseller": {
+        "10-20": {
+          "oran": 0.047619047619047665,
+          "miktar": 19825333.33333335
+        },
+        "10-29": {
+          "oran": 0.019047619047619067,
+          "miktar": 16766567.619047636
+        },
+        "0-36": {
+          "oran": 0.019047619047619067,
+          "miktar": 56643809.52380958
+        },
+        "10-32": {
+          "oran": 0.019047619047619067,
+          "miktar": 14160952.380952395
+        },
+        "0-17": {
+          "oran": 0.011904761904761899,
+          "miktar": 14160952.380952373
+        },
+        "0-135": {
+          "oran": 0.019047619047619067,
+          "miktar": 21298072.380952403
+        },
+        "10-148": {
+          "oran": 0.011904761904761899,
+          "miktar": 7788523.809523806
+        },
+        "0-119": {
+          "oran": 0.011904761904761899,
+          "miktar": 101250809.52380948
+        },
+        "0-278": {
+          "oran": 0.007936507936507934,
+          "miktar": 957.7503968253966
+        },
+        "10-276": {
+          "oran": 0.011904761904761899,
+          "miktar": 672.2670238095235
+        },
+        "0-137": {
+          "oran": 0.019047619047619067,
+          "miktar": 20260.10380952383
+        }
+      },
+      "toplam": 251916911.07361117,
+      "arsalar": 11
+    },
+    {
+      "ad": "Murt Onur Teke",
+      "key": "Murt Onur Teke|SerhatTeke",
+      "grup": "SerhatTeke",
+      "parseller": {
+        "10-20": {
+          "oran": 0.047619047619047665,
+          "miktar": 19825333.33333335
+        },
+        "10-29": {
+          "oran": 0.019047619047619067,
+          "miktar": 16766567.619047636
+        },
+        "0-36": {
+          "oran": 0.019047619047619067,
+          "miktar": 56643809.52380958
+        },
+        "10-32": {
+          "oran": 0.019047619047619067,
+          "miktar": 14160952.380952395
+        },
+        "0-17": {
+          "oran": 0.011904761904761899,
+          "miktar": 14160952.380952373
+        },
+        "0-135": {
+          "oran": 0.019047619047619067,
+          "miktar": 21298072.380952403
+        },
+        "10-148": {
+          "oran": 0.011904761904761899,
+          "miktar": 7788523.809523806
+        },
+        "0-119": {
+          "oran": 0.011904761904761899,
+          "miktar": 101250809.52380948
+        },
+        "0-278": {
+          "oran": 0.007936507936507934,
+          "miktar": 957.7503968253966
+        },
+        "10-276": {
+          "oran": 0.011904761904761899,
+          "miktar": 672.2670238095235
+        },
+        "0-137": {
+          "oran": 0.019047619047619067,
+          "miktar": 20260.10380952383
+        }
+      },
+      "toplam": 251916911.07361117,
+      "arsalar": 11
+    },
+    {
+      "ad": "Kahire Bingöl",
+      "key": "Kahire Bingöl|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Burhan Temel",
+      "key": "Burhan Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "İlhan Temel",
+      "key": "İlhan Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Erdinç Temel",
+      "key": "Erdinç Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Yoldaş Temel",
+      "key": "Yoldaş Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Oktay Temel",
+      "key": "Oktay Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Okay Temel",
+      "key": "Okay Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Hakan Temel",
+      "key": "Hakan Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Güneş Temel",
+      "key": "Güneş Temel|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Eylem Yeşil",
+      "key": "Eylem Yeşil|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Özlem Aktaş",
+      "key": "Özlem Aktaş|HalisTemel",
+      "grup": "HalisTemel",
+      "parseller": {
+        "10-28": {
+          "oran": 0.006818181818181818,
+          "miktar": 62044281.81818181
+        },
+        "10-29": {
+          "oran": 0.006818181818181818,
+          "miktar": 6001669.090909091
+        },
+        "0-36": {
+          "oran": 0.006818181818181818,
+          "miktar": 20275909.09090909
+        },
+        "10-32": {
+          "oran": 0.006818181818181818,
+          "miktar": 5068977.2727272725
+        },
+        "0-17": {
+          "oran": 0.008522727272727272,
+          "miktar": 10137954.545454545
+        },
+        "0-135": {
+          "oran": 0.006818181818181818,
+          "miktar": 7623741.818181817
+        },
+        "10-148": {
+          "oran": 0.008522727272727272,
+          "miktar": 5575875
+        },
+        "0-119": {
+          "oran": 0.008522727272727272,
+          "miktar": 72486375
+        },
+        "10-154": {
+          "oran": 0.03409090909090909,
+          "miktar": 29400068.18181818
+        },
+        "0-278": {
+          "oran": 0.017045454545454544,
+          "miktar": 2056.9866477272726
+        },
+        "10-276": {
+          "oran": 0.008522727272727272,
+          "miktar": 481.28207386363636
+        },
+        "0-137": {
+          "oran": 0.006818181818181818,
+          "miktar": 7252.196249999999
+        }
+      },
+      "toplam": 218624642.28315338,
+      "arsalar": 12
+    },
+    {
+      "ad": "Binali Teke",
+      "key": "Binali Teke|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    },
+    {
+      "ad": "Fatma Tekin",
+      "key": "Fatma Tekin|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    },
+    {
+      "ad": "Pamuk Teke",
+      "key": "Pamuk Teke|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    },
+    {
+      "ad": "Güzel Korkmaz",
+      "key": "Güzel Korkmaz|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    },
+    {
+      "ad": "Çayan Teke",
+      "key": "Çayan Teke|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    },
+    {
+      "ad": "Elif Teke",
+      "key": "Elif Teke|HıdırTeke",
+      "grup": "HıdırTeke",
+      "parseller": {
+        "10-28": {
+          "oran": 0.0027777777777777835,
+          "miktar": 25277300.000000052
+        },
+        "10-29": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2445124.4444444496
+        },
+        "0-36": {
+          "oran": 0.0027777777777777835,
+          "miktar": 8260555.555555573
+        },
+        "10-32": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2065138.8888888932
+        },
+        "0-17": {
+          "oran": 0.003472222222222217,
+          "miktar": 4130277.7777777715
+        },
+        "0-135": {
+          "oran": 0.0027777777777777835,
+          "miktar": 3105968.8888888955
+        },
+        "10-148": {
+          "oran": 0.003472222222222217,
+          "miktar": 2271652.7777777743
+        },
+        "0-119": {
+          "oran": 0.003472222222222217,
+          "miktar": 29531486.111111064
+        },
+        "0-278": {
+          "oran": 0.002314814814814817,
+          "miktar": 279.34386574074097
+        },
+        "10-276": {
+          "oran": 0.003472222222222217,
+          "miktar": 196.07788194444413
+        },
+        "0-137": {
+          "oran": 0.0027777777777777835,
+          "miktar": 2954.5984722222283
+        }
+      },
+      "toplam": 77090934.46466438,
+      "arsalar": 11
+    }
+  ],
+  "people_count_listed": 41,
+  "people_count_excel": 38,
+  "total_value": 26444270402.43,
+  "total_allocated": 26444270402.429996
+}

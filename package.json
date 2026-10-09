@@ -1,0 +1,33 @@
+{
+  "name": "miras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test tests/data.test.js",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "check": "npm run lint && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BABAYULA/miras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BABAYULA/miras/issues"
+  },
+  "homepage": "https://github.com/BABAYULA/miras#readme",
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "eslint-plugin-n": "^18.4.1",
+    "prettier": "^3.9.9"
+  }
+}
