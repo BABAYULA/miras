@@ -228,7 +228,6 @@ a:focus-visible {
   position: relative;
   overflow: hidden;
   border: 1px solid var(--line);
-  border-left: 4px solid var(--brand);
 }
 .hero .kicker {
   font-size: 11.5px;
@@ -442,29 +441,21 @@ a:focus-visible {
 .chip {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
   padding: 4px 12px;
   font-size: 12.5px;
   border-radius: var(--radius-action);
-  background: var(--brand-050);
-  border: 1px solid rgba(140, 47, 57, 0.25);
-  color: var(--brand);
+  background: var(--brand);
+  border: 1px solid var(--brand);
+  color: var(--brand-deep);
   text-decoration: none;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.15s ease;
 }
-.chip::before {
-  content: "";
-  width: 3px;
-  height: 12px;
-  border-radius: 2px;
-  background: var(--brand);
-  opacity: 0.55;
-}
+
 .chip:hover {
-  background: var(--brand);
-  border-color: var(--brand);
+  background: #6f2530;
+  border-color: #6f2530;
   color: #fff;
 }
 .chip:hover::after {
@@ -528,7 +519,6 @@ a:focus-visible {
 .page-head {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-left: 4px solid var(--brand);
   box-shadow: var(--shadow);
   padding: 24px 28px;
   display: grid;
@@ -669,7 +659,7 @@ tr.empty td.muted {
   color: var(--warn);
 }
 .pname {
-  font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 700;
   color: var(--ink);
   text-decoration: none;
